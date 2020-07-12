@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlxScraper", "OlxScraper\OlxScraper.csproj", "{365B3B89-7A25-4A37-B0F6-12D6DE8F053D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{365B3B89-7A25-4A37-B0F6-12D6DE8F053D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365B3B89-7A25-4A37-B0F6-12D6DE8F053D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365B3B89-7A25-4A37-B0F6-12D6DE8F053D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365B3B89-7A25-4A37-B0F6-12D6DE8F053D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {659DCBE0-5A23-430E-829F-7EE7883BCCB0}
+	EndGlobalSection
+EndGlobal
